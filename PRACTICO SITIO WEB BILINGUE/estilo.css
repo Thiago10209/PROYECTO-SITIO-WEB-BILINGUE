@@ -3,4 +3,33 @@ body{background-color: rgb(179, 171, 255);}
 
 width: 100px;
 
+h1 {
+ text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3 {
+    
+    text-align: center;
+}
+header {
+    background-color: lightblue;
+    margin: auto;
+}
+
+logo {
+    text-align: center;
+}
+
+
+
+
+body {
+    background-color: lightblue;
+}
+
+
 
